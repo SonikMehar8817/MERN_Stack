@@ -1,0 +1,31 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 20px;
+}
+
+div:nth-of-type(1){
+    color: orangered;
+}
+.box2 a{
+    color: white;
+    text-decoration: none;
+    padding: 3px 10px;
+    background-color: orangered;
+    border-radius: 4px;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    
+}
+
+
+.box a{ 
+    color: white;
+    text-decoration: none;
+
+}

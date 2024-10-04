@@ -1,0 +1,22 @@
+#heading{
+    color: blueviolet;
+}
+
+.same{
+    color: blue;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+    margin: 20px;
+}

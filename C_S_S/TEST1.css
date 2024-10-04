@@ -1,0 +1,50 @@
+section {
+  width: 100%;
+  height: 100%px;
+  display: flex;
+  align-items: center;
+  margin-left: 20%;
+  margin-top: 10%;
+}
+
+div {
+  height: 380px;
+  width: 200px;
+  margin: 5px;
+  border-radius: 5px;
+  box-shadow: 100cap;
+  
+}
+div img {
+  height: 120px;
+  width: 200px;
+  border-radius: 5px;
+  display: flex;
+   position: absolute;
+}
+div .image2{
+    border-radius: 40%;
+    height: 80px;
+    width: 80px;
+    margin-top: 70px;
+    margin-left: 60px;
+   
+}
+div h4{
+    text-align: center;
+    margin-top: 160px;
+}
+
+div p{
+    text-align: center;
+}
+
+div button{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    padding: 10px 82px;
+    border-radius: 10px;
+}
+
+

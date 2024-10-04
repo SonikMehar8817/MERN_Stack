@@ -1,0 +1,23 @@
+{
+  "folders": [
+	{
+		"path": "../../../fsd8"
+	},
+	{
+		"path": "../../../Control"
+	},
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../Users/KHANS/Desktop/Internship_Project2"
+	},
+	{
+		"path": "../../../Users/KHANS/Desktop/project 1"
+	}
+],
+  "settings": {
+    "java.debug.settings.onBuildFailureProceed": true,
+    "liveServer.settings.multiRootWorkspaceName": "MERN"
+  }
+}
